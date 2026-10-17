@@ -1,6 +1,6 @@
 # rpg-combat-engine
 Readme.md
-C++ Console RPG Combat & Inventory Engine (V2)
+C++ Console RPG Combat & Inventory Engine
 
 A lightweight, turn-based console RPG combat engine written in modern C++ following the Google C++ Style Guide. 
 
